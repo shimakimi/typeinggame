@@ -11,6 +11,13 @@
     'great',
     'emotion',
     'awsome',
+    'amazing',
+    'accomplish',
+    'fantastic',
+    'favorite',
+    'glory',
+    'elegant',
+    'excellent',
   ];
   let word;
   let loc = 0;
